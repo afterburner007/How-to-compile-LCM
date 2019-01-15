@@ -1,5 +1,6 @@
 # How-to-compile-LCM
 总结LCM（Lightweight Communications and Marshalling）的编译方法。
+
 由于工作需求使用到开源项目LCM（Lightweight Communications and Marshalling），用于传输车辆信息至PC端，
 在使用过程中发现LCM使用简单、可靠性高，适应于我工作程序的调试。
 LCM官网（http://lcm-proj.github.io/） 对于在linux、与windows等系统中编译都做了讲述，但我发现在linux环境下编译lcm库很容易，
